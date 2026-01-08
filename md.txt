@@ -1,0 +1,15 @@
+title key  descrption 
+tiltle
+case study 
+Math 
+descrption
+
+json namespace analysis 
+descrption   case study contain the data 
+json namespace
+Query 
+parelly Query
+ 3case
+ key word :meta data technolgy
+ Salesforce sopiyh
+ 

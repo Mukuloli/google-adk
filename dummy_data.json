@@ -1,0 +1,94 @@
+{
+  "dataset": [
+    {
+      "title": "Complete Mathematics Knowledge Base",
+      "description": "Contains all mathematical concepts including algebra, calculus, geometry, trigonometry, statistics, and numerical problem-solving methods. Covers polynomial equations and their solutions, derivatives and integrals for finding rates of change and areas, geometric theorems about shapes and angles, trigonometric ratios (sine, cosine, tangent) for triangle calculations, probability and statistical analysis, matrix operations, logarithmic and exponential functions, coordinate geometry, number theory, set theory, and mathematical reasoning. Includes formulas, step-by-step solution methods, proofs, and real-world application examples.",
+      "namespace_id": "namespace_001"
+    },
+    {
+      "title": "Complete Science Knowledge Base",
+      "description": "Natural sciences covering physics, chemistry, and biology - all concepts about matter, energy, forces, living organisms, and natural phenomena. Includes Newton's laws of motion and mechanics, atomic structure and chemical bonding, cell biology and genetics, thermodynamics and energy transformations, electromagnetic waves and electricity, organic and inorganic chemistry reactions, human anatomy and physiology, ecology and ecosystems, periodic table elements and their properties, light and optics, sound waves, nuclear physics, plant biology, evolution, and scientific experimental methods.",
+      "namespace_id": "namespace_002"
+    },
+    {
+      "title": "Complete Computer Science Knowledge Base",
+      "description": "Computer science and programming - algorithms, data structures, coding languages, software development, and computational thinking. Covers Python, Java, C++ programming languages, data structures (arrays, lists, stacks, queues, trees, graphs, hash tables), sorting and searching algorithms (bubble sort, merge sort, quick sort, binary search), object-oriented programming concepts, web development (HTML, CSS, JavaScript), database management, recursion, dynamic programming, time complexity analysis, debugging techniques, API development, and software design patterns.",
+      "namespace_id": "namespace_003"
+    },
+    {
+      "title": "Complete History Knowledge Base",
+      "description": "Historical events, civilizations, wars, independence movements, ancient cultures, and their impact on modern society. Covers World War I and II including causes, battles, and consequences, Indian independence movement from 1857 to 1947 with leaders like Gandhi and Nehru, ancient civilizations (Indus Valley, Mesopotamia, Egypt, Greece, Rome), medieval period kingdoms and empires, colonial era and imperialism, Cold War politics, major revolutions (French, Russian, American), industrial revolution, cultural movements, important treaties and agreements, timeline of significant events.",
+      "namespace_id": "namespace_004"
+    },
+    {
+      "title": "Complete English Language Knowledge Base",
+      "description": "English language grammar rules, writing skills, vocabulary building, sentence structure, and communication techniques. Covers all 12 English tenses with usage rules, parts of speech (nouns, verbs, adjectives, adverbs, pronouns), essay writing structure (introduction, body paragraphs, conclusion), vocabulary enhancement techniques, active and passive voice, direct and indirect speech, phrases and clauses, punctuation rules, comprehension strategies, letter and application writing, synonyms and antonyms, idioms and proverbs, paragraph development, grammar exercises.",
+      "namespace_id": "namespace_005"
+    },
+    {
+      "title": "Complete Geography Knowledge Base",
+      "description": "World geography including countries, capitals, physical features, climate zones, rivers, mountains, and environmental patterns. Covers all countries and their capital cities worldwide, major rivers (Nile, Amazon, Ganges, Yangtze), mountain ranges (Himalayas, Andes, Rocky Mountains), oceans and seas, climate zones (tropical, temperate, polar, desert), continents and their characteristics, latitude and longitude, map reading skills, natural resources distribution, population patterns, time zones, weather patterns, geological formations, environmental issues.",
+      "namespace_id": "namespace_006"
+    },
+    {
+      "title": "Complete Economics Knowledge Base",
+      "description": "Economic concepts including supply-demand, banking, currency, markets, trade, and resource allocation systems. Covers supply and demand principles, inflation and deflation concepts, banking system and monetary policy, types of economies (market, planned, mixed), GDP and economic indicators, international trade and globalization, stock markets and investments, taxation systems, budget and deficit, microeconomics and macroeconomics, price determination, economic development, poverty and inequality, consumer behavior, production factors, business cycles.",
+      "namespace_id": "namespace_007"
+    },
+    {
+      "title": "Complete Health Knowledge Base",
+      "description": "Health and wellness including nutrition, exercise, disease prevention, body systems, and medical awareness. Covers balanced diet and nutrition requirements (proteins, carbohydrates, fats, vitamins, minerals), exercise benefits for cardiovascular, muscular, and mental health, common diseases and their symptoms (cold, flu, diabetes, hypertension), preventive healthcare measures, human body systems (digestive, respiratory, circulatory, nervous), mental health awareness, hygiene practices, first aid basics, immunity and vaccination, healthy lifestyle habits, stress management, sleep importance.",
+      "namespace_id": "namespace_008"
+    },
+    {
+      "title": "Advanced Mathematics Research",
+      "description": "Advanced mathematical research topics including abstract algebra, topology, differential equations, complex analysis, and mathematical modeling. Covers group theory, ring theory, field extensions, manifolds, metric spaces, partial differential equations, Fourier analysis, vector calculus, mathematical proofs, numerical methods, optimization techniques, and advanced problem-solving strategies.",
+      "namespace_id": "namespace_009"
+    },
+    {
+      "title": "Applied Physics and Engineering",
+      "description": "Applied physics principles in engineering contexts including mechanics, materials science, fluid dynamics, and quantum mechanics applications. Covers stress-strain analysis, material properties, heat transfer, wave mechanics, semiconductor physics, nanotechnology, aerodynamics, structural engineering principles, electrical circuits, and practical applications of physical laws.",
+      "namespace_id": "namespace_010"
+    },
+    {
+      "title": "Comprehensive Mathematics Repository",
+      "description": "Comprehensive mathematical topics covering algebra concepts, calculus fundamentals, geometric principles, trigonometric functions, statistical methods, and problem-solving techniques for numerical analysis.",
+      "namespace_id": "namespace_011"
+    },
+    {
+      "title": "Full Mathematics Learning Hub",
+      "description": "Full coverage of mathematics including algebraic expressions, calculus operations, geometry theorems, trigonometry applications, statistics and probability, along with step-by-step calculation methods.",
+      "namespace_id": "namespace_012"
+    },
+    {
+      "title": "Natural Sciences Knowledge Center",
+      "description": "Scientific knowledge encompassing physics principles, chemistry fundamentals, and biological concepts - exploring matter, energy, forces, life forms, and natural world phenomena.",
+      "namespace_id": "namespace_013"
+    },
+    {
+      "title": "Core Science Education Library",
+      "description": "Natural science topics including physical laws, chemical reactions, biological processes - covering matter properties, energy systems, living organisms, and environmental phenomena.",
+      "namespace_id": "namespace_014"
+    },
+    {
+      "title": "Programming and CS Fundamentals",
+      "description": "Programming and computer science fundamentals - covering algorithms, data organization, coding in various languages, software engineering, and computational problem-solving approaches.",
+      "namespace_id": "namespace_015"
+    },
+    {
+      "title": "Computer Technology Knowledge Bank",
+      "description": "Computer science essentials including algorithmic thinking, data structures, programming languages, application development, and systematic computational methodologies.",
+      "namespace_id": "namespace_016"
+    },
+    {
+      "title": "World History Knowledge Archive",
+      "description": "Historical knowledge covering major events, ancient and modern civilizations, global conflicts, freedom struggles, cultural heritage, and their lasting influence on contemporary world.",
+      "namespace_id": "namespace_017"
+    },
+    {
+      "title": "Historical Events Database",
+      "description": "World history encompassing significant events, past civilizations, wars and revolutions, independence movements, cultural developments, and their impact on present-day society.",
+      "namespace_id": "namespace_018"
+    }
+  ]
+}
